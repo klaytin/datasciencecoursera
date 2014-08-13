@@ -1,0 +1,4 @@
+git config --global user.name "klaytin"
+git config --global user.email "wendykohlt@gmail.com"
+
+git commit -m "first commit"
